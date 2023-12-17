@@ -7,3 +7,6 @@ categoriesCount.forEach((category) => {
   console.log("Category: ${title}");
   console.log("Elements: ${innerCategories}");
 });
+d FileSystem 
+     false getComputedStyle history jhthe 
+     
