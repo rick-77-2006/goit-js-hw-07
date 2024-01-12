@@ -15,4 +15,3 @@ function submitHandler(event) {
   };
   console.log(trimmedValues);
 }
-
