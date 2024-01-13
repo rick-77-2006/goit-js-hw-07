@@ -4,7 +4,7 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.04em;
 }
 
@@ -23,7 +23,7 @@ button {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.04em;
   padding: 8px 16px;
   border-radius: 8px;
@@ -46,14 +46,16 @@ button {
   background-color: #ff4e4e;
 }
 
+.box {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+}
+
 #boxes {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
 }
 
-.box {
-  width: 30px;
-  height: 30px;
-  background-color: red; /* Initial background color */
-}
+

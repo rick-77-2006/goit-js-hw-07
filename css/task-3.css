@@ -4,7 +4,7 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.04em;
 }
 
@@ -13,7 +13,7 @@ h1,
   margin: 0;
   font-size: 24px;
   font-weight: 600;
-  line-height: 1.33; /* 133.333% */
+  line-height: 1.33;
 }
 
 #name-input {
@@ -30,6 +30,6 @@ h1,
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.04em;
 }

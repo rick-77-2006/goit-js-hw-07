@@ -4,12 +4,8 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.04em;
-}
-
-.login-form {
-  padding: 24px;
 }
 
 label {
@@ -29,7 +25,7 @@ button {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.04em;
   padding: 8px 16px;
   border-radius: 8px;
@@ -38,4 +34,8 @@ button {
   color: #fff;
   border: none;
   cursor: pointer;
+}
+
+.login-form {
+  padding: 24px;
 }
